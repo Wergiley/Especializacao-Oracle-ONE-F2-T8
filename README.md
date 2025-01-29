@@ -2,7 +2,7 @@
 Durante 12 meses, você terá acesso à conteúdos gravados, além de desafios práticos e aulas ao vivo, somando uma experiência de mais de 700 horas de aprendizagem, que revelarão seus talentos iniciais no mundo da programação.
 
 ## Especialização Oracle
-- Período: 09/01/25
+- Data: 09/01/25
 - Graduação: 20/10/25
 - Carga Horária: 700 horas
 ## Formações Alumni ONE
@@ -10,7 +10,7 @@ Durante 12 meses, você terá acesso à conteúdos gravados, além de desafios p
 - Graduação: 25/11/25
 
 # Formações
-## Desenvolvimento Pessoal G8 - ONE
+## Desenvolvimento Pessoal G8 - ONE - 09/01 a 18/02/25 - 36H
 Aprenda como melhorar a sua produtividade e seu desenvolvimento pessoal.
 A Formação em Produtividade é um guia de aprendizado completo para aprimorar os seus hábitos. A princípio, você vai aprender métodos que te ajudam a criar bons hábitos e produtividade. Além disso, você vai descobrir como melhorar a sua eficácia profissional e técnicas que vão melhorar sua gestão de tempo.
 
@@ -28,7 +28,7 @@ Para aprender sobre produtividade é importante que você estude e pratique muit
 
 Manter um alto nível de produtividade contribuirá na sua gestão de carreira e vai melhorar a sua produtividade. Um dos primeiros objetivos que os profissionais buscam para melhorar é sua produtividade é se preparar para realizar um grande projeto, gerenciar uma tarefa simples ou apenas reduzir o trabalho que acumula dia a dia.
 
-## Iniciante em Programação G8 - ONE
+## Iniciante em Programação G8 - ONE - 15/01 a 18/03/25 - 70H
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.
 ### Conheça esta Formação:
 Você vai criar suas primeiras páginas web, utilizando HTML, CSS, JS e assim aprender lógica de programação junto com as linguagens de programação mais utilizadas no mundo.
