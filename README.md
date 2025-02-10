@@ -61,13 +61,13 @@ Este é um aplicativo web interativo que permite adicionar amigos a uma lista e 
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd Especializacao-Oracle-ONE-F2-T8
+   cd projeto3_challenge-amigo-secreto
    ```
 3. Abra o arquivo `index.html` no navegador.
 
 ## Estrutura do Projeto 📂
 ```
-📁 projeto3-challenge-amigo-secreto
+📁 projeto3_challenge-amigo-secreto
 │-- 📄 index.html  # Estrutura principal da aplicação
 │-- 📄 style.css   # Estilos e layout
 │-- 📄 app.js      # Lógica do sorteio e manipulação do DOM
